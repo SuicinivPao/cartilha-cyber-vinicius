@@ -8,7 +8,7 @@ Curso de Segurança da Informação – Professor Rodrigo Moreira
 
 ---
 
-##🔰 Introdução
-Esta cartilha é um guia prático e introdutório sobre segurança digital. Criada para estudantes, profissionais iniciantes e qualquer pessoa interessada em se proteger no ambiente online, ela apresenta conceitos, ferramentas e boas práticas essenciais.##
+## 🔰 Introdução
+Esta cartilha é um guia prático e introdutório sobre segurança digital. Criada para estudantes, profissionais iniciantes e qualquer pessoa interessada em se proteger no ambiente online, ela apresenta conceitos, ferramentas e boas práticas essenciais.
 
 🔍 **Objetivo:** facilitar o acesso ao conhecimento de segurança digital de forma simples, acessível e aplicada.
