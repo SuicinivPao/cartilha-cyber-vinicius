@@ -1,6 +1,6 @@
 #🛡️ Cartilha de CyberSecurity – Projeto Final
 Autor(a): Vinicius Melo
-Curso de Segurança da Informação – Professor Rodrigo Moreira#
+Curso de Segurança da Informação – Professor Rodrigo Moreira
 
 ---
 
